@@ -1,4 +1,4 @@
-Milestone Project 2: War
+# Milestone Project 2: War
 
 Rules of the game: https://en.wikipedia.org/wiki/War_(card_game)
 
